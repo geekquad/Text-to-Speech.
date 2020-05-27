@@ -1,8 +1,8 @@
 # Text-to-Speech.
 A basic snippet of code that uses Google's gTTS API to convert text to speech. Go on. Play Around with it. It allows unlimited lengths to be spoken by tokenizing long sentences where the speech would naturally pause.
 <p> Be sure to pip install gTTS api before using it. </p>
-<h3> To install, go to the command prompt and type this:
-<p> pip install gTTS </p>
+<h3> To install, go to the command prompt and type this: </h3> 
+<p> $ pip install gTTS  </p>
   <h3> Supported Languages <a name="lang_list"></a> </h3>
 
 * 'af' : 'Afrikaans'
